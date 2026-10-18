@@ -1,0 +1,1 @@
+{"schemaVersion":"programmable.launch-protection-build.v1","policy":{"minimumFdvUsd":"15000","walletLimitBps":200,"buyerLimitBps":200,"protectionSeconds":300,"openingTotalFeePpm":990000,"openingFeeSeconds":30,"maximumAdditionalTaxExemptWallets":6,"treasury":"0xD88539d3c4C460136a733A3Fd60cf6BF269079da"},"signing":false,"broadcast":false}
