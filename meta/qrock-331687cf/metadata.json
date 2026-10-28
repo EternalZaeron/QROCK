@@ -1,0 +1,11 @@
+{
+  "name": "QUANTUM ROCK",
+  "symbol": "QROCK",
+  "description": "The only thing between the quantum computer and your wallet is a soft rock.",
+  "image": "https://raw.githubusercontent.com/EternalZaeron/QROCK/39dad8b534c3403bb2c7dff3893555f31053f844/meta/qrock-331687cf/logo.png",
+  "external_url": "https://quantrock.xyz/",
+  "extensions": {
+    "website": "https://quantrock.xyz/",
+    "twitter": "https://x.com/QntmROCK"
+  }
+}
